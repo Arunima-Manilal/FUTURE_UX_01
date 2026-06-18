@@ -88,13 +88,13 @@ The redesign improves user experience, builds customer trust, and encourages vis
 ![Homepage](homepage.png)
 
 ### Services Page
-![Services](services.png)
+![Services](servicepage.png)
 
 ### Appointment Page
-![Appointment](appointment.png)
+![Appointment](bookappointment.png)
 
 ### Contact Page
-![Contact](contact.png)
+![Contact](contactpage.png)
 
 ### Bridal Makeup Service Page
-![Bridal Makeup](bridal-makeup.png)
+![Bridal Makeup](bridalpage.png)
