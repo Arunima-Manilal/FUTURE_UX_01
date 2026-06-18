@@ -91,7 +91,7 @@ The redesign improves user experience, builds customer trust, and encourages vis
 ![Services](servicepage.png)
 
 ### Appointment Page
-![Appointment](bookappointment.png)
+![Appointment](bookappoinment.png)
 
 ### Contact Page
 ![Contact](contactpage.png)
